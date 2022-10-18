@@ -7,6 +7,7 @@ import org.testng.annotations.AfterMethod;
 public class AppUtils {
   @Test
   public void f() {
+	  System.out.println("First method");
   }
   @BeforeMethod
   public void beforeMethod() {
