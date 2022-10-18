@@ -8,6 +8,8 @@ public class AppUtils {
   @Test
   public void f() {
 	  System.out.println("First method");
+	  System.out.println("Second method");
+	  System.out.println("Third method");
   }
   @BeforeMethod
   public void beforeMethod() {
