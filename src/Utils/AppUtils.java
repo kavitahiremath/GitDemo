@@ -29,6 +29,14 @@ public class AppUtils {
 	  System.out.println("Fourth method");
 	  System.out.println("Fifth method");
   }
+  @Test
+  public void f3() {
+	  System.out.println("First method");
+	  System.out.println("Second method");
+	  System.out.println("Third method");
+	  System.out.println("Fourth method");
+	  System.out.println("Fifth method");
+  }
   @BeforeMethod
   public void beforeMethod() {
 	  System.out.println("This is Start Session");
